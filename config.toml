@@ -1,0 +1,37 @@
+# Site settings
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "CytoData Society"
+theme = "hugo-simpledoc-theme"
+
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+
+[blackfriday]
+  angledQuotes = true
+  fractions = false
+  plainIDAnchors = true
+  smartlists = true
+  extensions = ["hardLineBreak"]
+
+# Top menu
+[[menu.top]]
+    name = "Attend CytoData 2018 this September in Boston!"
+    weight = 10
+    url = "http://cytodata.org"
+
+# Site parameters
+[params]
+
+    # Meta
+    description = "CytoData Society"
+    author = "Shantanu Singh"
+    keywords = "biology, computer vision, machine learning, drug discovery, high-content imaging, microscopy, bioinformatics, computational biology"
+    
+    # Header
+    # If not set, site title and meta description will be shown.
+    # You may use markdown here
+    headerTitle = "CytoData Society"
+    headerDescription = "The CytoData society (CytoDS) builds and maintains an active community around image-based profiling of biological phenotypes induced by genetic, chemical or other perturbations of biological systems."
+    
+    # Back-to-top button name
+    bttButton = ""
