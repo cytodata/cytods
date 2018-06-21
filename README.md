@@ -1,2 +1,1 @@
-# cytods
-CytoData Society website
+# CytoData Society website
