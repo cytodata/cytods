@@ -31,7 +31,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     # If not set, site title and meta description will be shown.
     # You may use markdown here
     headerTitle = "CytoData Society"
-    headerDescription = "The CytoData society (CytoDS) builds and maintains an active community around image-based profiling of biological phenotypes induced by genetic, chemical or other perturbations of biological systems."
+    headerDescription = "![CytoData banner](/./main_files/cytodata-banner.png) The CytoData society (CytoDS) builds and maintains an active community around image-based profiling of biological phenotypes induced by genetic, chemical or other perturbations of biological systems."
     
     # Back-to-top button name
     bttButton = ""
