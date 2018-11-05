@@ -27,7 +27,7 @@ The society has eleven leadership positions. The positions are open to anyone. T
   - Assist current president, learn the ropes
   - Automatically becomes President the following year
 
-### Symposium organizer: Tim Becker
+### Symposium organizer: TBD
 - **Responsibilities**
   - Organize the annual CytoData symposium, with inputs from the committee and the members
   - Conduct poll to select site & date for the next year 
@@ -35,7 +35,7 @@ The society has eleven leadership positions. The positions are open to anyone. T
   - Find sponsors to offset costs, or lead grant-writing efforts to support the meeting
   - Select meeting’s organizing committee members, with an eye towards scientific and demographic diversity 
 
-### Event officer: Sam Cooper
+### Event officer: Tim Becker
 - **Responsibilities**
   - Mentor Symposium organizer
   - Document responsibilities and pass along to Symposium organizer
@@ -47,7 +47,7 @@ The society has eleven leadership positions. The positions are open to anyone. T
   - Maintain society website
   - Design strategy for communications (frequency of announcements, venues for announcements, event announcements only, job listings, paper updates in the field, etc.)
 
-### Industry liaison: Alex Vasilevich
+### Industry liaison: Berton Earnshaw
 - **Responsibilities**
   - Work with Symposium organizer to find sponsors to offset costs
   - Maintain relationships with key industry members and represent their interests to the Board/Council
@@ -61,12 +61,6 @@ The society has eleven leadership positions. The positions are open to anyone. T
 ### Education/ outreach officer: Juan Caicedo
 - **Responsibilities**
   - Design and organize strategy for education and outreach
-
-### Treasurer: Lassi Paavolainen
-- **Responsibilities**
-  - Assist Symposium organizer in managing funds; provide some continuity from year to year in the procedures.
-  - Figure out a strategy for how to deal with profits/deficits from events. *Pending: Perhaps strategy should to have the Symposium organizer decide about it. If so, document this in the Symposium strategy and remove this item from Responsibility* 
-  - Work with Symposium organizer to find sponsors to offset costs, or write grants to support the meeting
 
 ### Society liaison: Oren Kraus
 - **Responsibilities**
