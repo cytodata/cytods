@@ -53,4 +53,4 @@ The symposium strategy will be revisited each year.
 (Pending)
 
 ### Bibliography of literature in the field
-We are maintaining an list of papers in the field via this list https://github.com/cytodata/awesome-cytodata
+We are maintaining a list of interesting papers in the field via https://github.com/cytodata/awesome-cytodata
