@@ -38,19 +38,19 @@ The high-content screening community has several decades of experience in runnin
 ### Data science
 Due to the enormous amount of data produced during an image based high-throughput experiment this community also builds on a shared knowledge base of how to handle, analyze and make sense of terabytes of data from single experiments, particularly at the single-cell level. This can be invaluable for other communities just starting with data production of such dimensions (e.g. single-cell sequencing and transcriptomics).
 
-### Society financial/legal structure
+## Society financial/legal structure
 CytoData will not file for non-profit status and will not manage funds. Instead, each year, the symposium organizers will come up with a proposal and the committee will give permission to use the CytoData name.
 
-### Symposium strategy
+## Symposium strategy
 The symposium strategy will be revisited each year. 
 
-### Strategy for maintaining resources
+## Strategy for maintaining resources
 
-#### Community software libraries for data analysis
+### Community software libraries for data analysis
 (Pending)
 
-#### Benchmark datasets
+### Benchmark datasets
 (Pending)
 
-#### Bibliography of literature in the field
-(Pending)
+### Bibliography of literature in the field
+We are maintaining an list of papers in the field via this list https://github.com/cytodata/awesome-cytodata
