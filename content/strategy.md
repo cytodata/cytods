@@ -23,7 +23,7 @@ To foster wide adoption and broad applications of results from research on image
 ## Educating the next generation
 While CytoDS aims to foster new technologies, it also sets out to actively pass down the current state of the art to the next generation of scientists.To this end, it actively seeks early career researchers to contribute to running the society. As well, members of the society are encouraged to reach out the next generation to raise awareness of the societies actions, meetings, and knowledge collections (e.g. web-resource collections). Hackathons and workshops during scientific meeting organized by CytoDS should further increase the accessibility of image-based profiling research.
 
-## Connections to other scientific communities. 
+## Connections to other scientific communities
 We aim to draw in other researchers from various different communities whose techniques / knowledge might be profitably applied to the field of image based profiling. This will ultimately lead to the mutual benefit of all communities and brings all research areas a step forward. 
 
 ### Machine learning and computer vision
