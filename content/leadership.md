@@ -7,6 +7,7 @@ weight: 3
 
 The society has eleven leadership positions. The positions are open to anyone. Three out of the eleven positions must be held by early career researchers. 
 
+## Roles
 
 ### Board members
 - **Responsibilities**
@@ -69,5 +70,13 @@ The society has eleven leadership positions. The positions are open to anyone. T
 ### Resource officer: Lassi Paavolainen
 - **Responsibilities**
   - Create and maintain list of community software libraries for data analysis, bibliography of literature in the field, and benchmark datasets.
+
+## Election process
+
+### Vice President
+Should be a current board member. The candidate nominates theirself by emailing the President. The President then sends out a list to the Board to vote on. If it’s a tie, the President decides.
+
+### Other positions
+Anyone can nominate themselves, or others (in which case the board will confirm their interest) by emailing <cytodata.info@gmail.com>. The nominee provides a 3-sentence summary of qualifications and interest, and the Communication Officer send out a list for the Society to vote on. Majority of votes wins; if it’s a tie the Board will vote.
 
 *Pending decisions: Term limits will be decided early 2019, when the society has been around for long enough for us to figure this out; we also have to figure out the logic with respect to positions that automatically turn into other positions (e.g., if someone is elected to Future President in the last year of their otherwise 3-year Board term then we would need to adjust the number of new Board members because that person would need a 5 year Board term).*
