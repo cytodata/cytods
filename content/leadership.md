@@ -14,16 +14,16 @@ The society has eleven leadership positions. The positions are open to anyone. T
   - Set strategy/policy about events and site selection
   - Assist Symposium organizer to find sponsors to offset costs, or contribute to grants to support the meeting
 
-### Past president: Anne Carpenter
+### Past presidents: Anne Carpenter and Shantanu Singh
 - **Responsibilities**
   - Mentor current president, document responsibilities and pass along to current president
 
-### President: Shantanu Singh
+### President: Florian Heigwer
 - **Responsibilities**
   - Lead the committee, keeping the society’s vision and strategy in mind.
   - Automatically becomes Past president the following year
 
-### Vice President: Florian Heigwer
+### Vice President: (Open position)
 - **Responsibilities**
   - Assist current president, learn the ropes
   - Automatically becomes President the following year
@@ -54,7 +54,7 @@ The society has eleven leadership positions. The positions are open to anyone. T
   - Maintain relationships with key industry members and represent their interests to the Board/Council
   - Depending on running costs, decide whether to offer them some sort of sponsorship opportunities for the society as a whole (vs. annual meeting only), to cover costs 
 
-### Operations officer: Rabia Khan
+### Operations officer: (Open position)
 - **Responsibilities**
   - Keep notes of decisions/action items from meetings 
   - Design and maintain plan for tracking society’s history (e.g., records of past meetings and officers)
