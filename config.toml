@@ -15,7 +15,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 # Top menu
 [[menu.top]]
-    name = "CytoData 2018 was held in Boston. Next up – CytoData 2019 Europe!"
+    name = "CytoData 2019 Europe will held at DKFZ, Heidelberg!"
     weight = 10
     url = "http://cytodata.org"
 
