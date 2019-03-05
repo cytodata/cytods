@@ -28,7 +28,7 @@ The society has eleven leadership positions. The positions are open to anyone. T
   - Assist current president, learn the ropes
   - Automatically becomes President the following year
 
-### Symposium organizer: TBD
+### Symposium organizer: Florian Heigwer
 - **Responsibilities**
   - Organize the annual CytoData symposium, with inputs from the committee and the members
   - Conduct poll to select site & date for the next year 
