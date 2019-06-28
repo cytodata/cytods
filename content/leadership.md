@@ -67,7 +67,7 @@ The society has eleven leadership positions. The positions are open to anyone. T
 - **Responsibilities**
   - Seek and propose to the Board/Council partnerships and affiliations with other societies
 
-### Resource officer: (Open position)
+### Resource officer: Greg Way
 - **Responsibilities**
   - Create and maintain list of community software libraries for data analysis, bibliography of literature in the field, and benchmark datasets.
 
