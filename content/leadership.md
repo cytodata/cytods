@@ -54,7 +54,7 @@ The society has eleven leadership positions. The positions are open to anyone. T
   - Maintain relationships with key industry members and represent their interests to the Board/Council
   - Depending on running costs, decide whether to offer them some sort of sponsorship opportunities for the society as a whole (vs. annual meeting only), to cover costs 
 
-### Operations officer: (Open position)
+### Operations officer: Theresa Gebert
 - **Responsibilities**
   - Keep notes of decisions/action items from meetings 
   - Design and maintain plan for tracking society’s history (e.g., records of past meetings and officers)
