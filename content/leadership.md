@@ -14,21 +14,21 @@ The society has eleven leadership positions. The positions are open to anyone. T
   - Set strategy/policy about events and site selection
   - Assist Symposium organizer to find sponsors to offset costs, or contribute to grants to support the meeting
 
-### Past presidents: Anne Carpenter and Shantanu Singh
+### Past presidents: Anne Carpenter, Shantanu Singh, Florian Heigwer
 - **Responsibilities**
   - Mentor current president, document responsibilities and pass along to current president
 
-### President: Florian Heigwer
+### President: Lassi Paavolainen
 - **Responsibilities**
   - Lead the committee, keeping the society’s vision and strategy in mind.
   - Automatically becomes Past president the following year
 
-### Vice President: Lassi Paavolainen
+### Vice President: TBD
 - **Responsibilities**
   - Assist current president, learn the ropes
   - Automatically becomes President the following year
 
-### Symposium organizer: Florian Heigwer
+### Symposium organizer: TBD
 - **Responsibilities**
   - Organize the annual CytoData symposium, with inputs from the committee and the members
   - Conduct poll to select site & date for the next year 
