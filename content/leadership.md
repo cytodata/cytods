@@ -28,7 +28,7 @@ The society has eleven leadership positions. The positions are open to anyone. T
   - Assist current president, learn the ropes
   - Automatically becomes President the following year
 
-### Symposium organizer: TBD
+### Symposium organizer: Berton Earnshaw
 - **Responsibilities**
   - Organize the annual CytoData symposium, with inputs from the committee and the members
   - Conduct poll to select site & date for the next year 
@@ -42,19 +42,19 @@ The society has eleven leadership positions. The positions are open to anyone. T
   - Document responsibilities and pass along to Symposium organizer
   - The Symposium organizer assumes this responsibility for the next year
 
-### Communications officer: Alex Vasilevich
+### Communications officer: Open (Shantanu Singh is acting Communications officer)
 - **Responsibilities**
   - Maintain mailing list
   - Maintain society website
   - Design strategy for communications (frequency of announcements, venues for announcements, event announcements only, job listings, paper updates in the field, etc.)
 
-### Industry liaison: Berton Earnshaw
+### Industry liaison: Open
 - **Responsibilities**
   - Work with Symposium organizer to find sponsors to offset costs
   - Maintain relationships with key industry members and represent their interests to the Board/Council
   - Depending on running costs, decide whether to offer them some sort of sponsorship opportunities for the society as a whole (vs. annual meeting only), to cover costs 
 
-### Operations officer: Theresa Gebert
+### Operations officer: Open
 - **Responsibilities**
   - Keep notes of decisions/action items from meetings 
   - Design and maintain plan for tracking society’s history (e.g., records of past meetings and officers)
