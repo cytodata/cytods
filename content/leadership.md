@@ -48,7 +48,7 @@ The society has eleven leadership positions. The positions are open to anyone. T
   - Maintain mailing list
   - Maintain society website
   - Monitor contact email inbox 
-  
+
 ### Industry liaison: Open
 - **Responsibilities**
   - Work with Symposium organizer to find sponsors to offset costs
