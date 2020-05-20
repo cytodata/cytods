@@ -44,9 +44,10 @@ The society has eleven leadership positions. The positions are open to anyone. T
 
 ### Communications officer: Open (Shantanu Singh is acting Communications officer)
 - **Responsibilities**
+  - Design strategy for communications (frequency of announcements, venues for announcements, event announcements only, job listings, paper updates in the field, etc.)
   - Maintain mailing list
   - Maintain society website
-  - Design strategy for communications (frequency of announcements, venues for announcements, event announcements only, job listings, paper updates in the field, etc.)
+  - Monitor contact email inbox 
 
 ### Industry liaison: Open
 - **Responsibilities**
