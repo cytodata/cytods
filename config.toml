@@ -15,9 +15,9 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 # Top menu
 [[menu.top]]
-    name = "CytoData 2019 Europe will held at DKFZ, Heidelberg!"
+    name = "CytoData 2020 will be organized as virtual event by Recursion Pharma 22-23 Oct 2020. More information to follow."
     weight = 10
-    url = "http://cytodata.org"
+    url = "https://www.recursionpharma.com/"
 
 # Site parameters
 [params]
