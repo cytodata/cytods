@@ -49,7 +49,7 @@ The society has eleven leadership positions. The positions are open to anyone. T
   - Maintain society website
   - Monitor contact email inbox 
 
-### Industry liaison: Open
+### Industry liaison: Tom Nijhof
 - **Responsibilities**
   - Work with Symposium organizer to find sponsors to offset costs
   - Maintain relationships with key industry members and represent their interests to the Board/Council
