@@ -31,7 +31,6 @@ The society has eleven leadership positions. The positions are open to anyone. T
 ### Symposium organizer: Berton Earnshaw
 - **Responsibilities**
   - Organize the annual CytoData symposium, with inputs from the committee and the members
-  - Conduct poll to select site & date for the next year 
   - Update the organizing protocol to share experience from year to year
   - Find sponsors to offset costs, or lead grant-writing efforts to support the meeting
   - Select meeting’s organizing committee members, with an eye towards scientific and demographic diversity 
@@ -40,7 +39,7 @@ The society has eleven leadership positions. The positions are open to anyone. T
 - **Responsibilities**
   - Mentor Symposium organizer
   - Document responsibilities and pass along to Symposium organizer
-  - The Symposium organizer assumes this responsibility for the next year
+  - Conduct poll to select site & date for the next year 
 
 ### Communications officer: Open (Shantanu Singh is acting Communications officer)
 - **Responsibilities**
