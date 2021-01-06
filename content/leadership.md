@@ -14,7 +14,7 @@ The society has eleven leadership positions. The positions are open to anyone. T
   - Set strategy/policy about events and site selection
   - Assist Symposium organizer to find sponsors to offset costs, or contribute to grants to support the meeting
 
-### Past presidents: Anne Carpenter, Shantanu Singh, Florian Heigwer
+### Past president: Not selected for 2021
 - **Responsibilities**
   - Mentor current president, document responsibilities and pass along to current president
 
@@ -28,10 +28,9 @@ The society has eleven leadership positions. The positions are open to anyone. T
   - Assist current president, learn the ropes
   - Automatically becomes President the following year
 
-### Symposium organizer: Berton Earnshaw
+### Symposium organizer: To be selected
 - **Responsibilities**
   - Organize the annual CytoData symposium, with inputs from the committee and the members
-  - Conduct poll to select site & date for the next year 
   - Update the organizing protocol to share experience from year to year
   - Find sponsors to offset costs, or lead grant-writing efforts to support the meeting
   - Select meeting’s organizing committee members, with an eye towards scientific and demographic diversity 
@@ -40,35 +39,35 @@ The society has eleven leadership positions. The positions are open to anyone. T
 - **Responsibilities**
   - Mentor Symposium organizer
   - Document responsibilities and pass along to Symposium organizer
-  - The Symposium organizer assumes this responsibility for the next year
+  - Conduct poll to select site & date for the next year 
 
-### Communications officer: Open (Shantanu Singh is acting Communications officer)
+### Communications officer: Paula Zapata
 - **Responsibilities**
   - Design strategy for communications (frequency of announcements, venues for announcements, event announcements only, job listings, paper updates in the field, etc.)
   - Maintain mailing list
   - Maintain society website
   - Monitor contact email inbox 
 
-### Industry liaison: Tom Nijhof
+### Industry liaison: Santosh Hariharan
 - **Responsibilities**
   - Work with Symposium organizer to find sponsors to offset costs
   - Maintain relationships with key industry members and represent their interests to the Board/Council
   - Depending on running costs, decide whether to offer them some sort of sponsorship opportunities for the society as a whole (vs. annual meeting only), to cover costs 
 
-### Operations officer: Open
+### Operations officer: Greg Way
 - **Responsibilities**
   - Keep notes of decisions/action items from meetings 
   - Design and maintain plan for tracking society’s history (e.g., records of past meetings and officers)
   
-### Education/ outreach officer: Juan Caicedo
+### Education/ outreach officer: Tom Nijhof
 - **Responsibilities**
   - Design and organize strategy for education and outreach
 
-### Society liaison: Oren Kraus
+### Society liaison: Osheen Sharma
 - **Responsibilities**
   - Seek and propose to the Board/Council partnerships and affiliations with other societies
 
-### Resource officer: Greg Way
+### Resource officer: Loan Vuillard
 - **Responsibilities**
   - Create and maintain list of community software libraries for data analysis, bibliography of literature in the field, and benchmark datasets.
 
@@ -79,5 +78,3 @@ Should be a current board member. The candidate nominates theirself by emailing 
 
 ### Other positions
 Anyone can nominate themselves, or others (in which case the board will confirm their interest) by emailing <cytodata.info@gmail.com>. The nominee provides a 3-sentence summary of qualifications and interest, and the Communication Officer send out a list for the Society to vote on. Majority of votes wins; if it’s a tie the Board will vote.
-
-*Pending decisions: Term limits will be decided early 2020, when the society has been around for long enough for us to figure this out; we also have to figure out the logic with respect to positions that automatically turn into other positions (e.g., if someone is elected to Future President in the last year of their otherwise 3-year Board term then we would need to adjust the number of new Board members because that person would need a 5 year Board term).*
