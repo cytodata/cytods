@@ -41,7 +41,7 @@ The society has eleven leadership positions. The positions are open to anyone. T
   - Document responsibilities and pass along to Symposium organizer
   - Conduct poll to select site & date for the next year 
 
-### Communications officer: Paula Marin Zapata
+### Communications officer: Paula A. Marin Zapata
 - **Responsibilities**
   - Design strategy for communications (frequency of announcements, venues for announcements, event announcements only, job listings, paper updates in the field, etc.)
   - Maintain mailing list
@@ -54,7 +54,7 @@ The society has eleven leadership positions. The positions are open to anyone. T
   - Maintain relationships with key industry members and represent their interests to the Board/Council
   - Depending on running costs, decide whether to offer them some sort of sponsorship opportunities for the society as a whole (vs. annual meeting only), to cover costs 
 
-### Operations officer: Greg Way
+### Operations officer: Gregory Way
 - **Responsibilities**
   - Keep notes of decisions/action items from meetings 
   - Design and maintain plan for tracking society’s history (e.g., records of past meetings and officers)
