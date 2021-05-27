@@ -45,4 +45,4 @@ CytoData will not file for non-profit status and will not manage funds. Instead,
 The symposium strategy will be revisited each year. 
 
 ## Strategy for maintaining resources
-CytoData will compile useful resources to help disseminate technical and scientific advances in the field. Details are provided in a dedicated section.
+CytoData will compile useful resources to help disseminate technical and scientific advances in the field. Details are provided in [a dedicated section](#resources).

@@ -21,7 +21,7 @@ Are you interested in analyzing image-based screening experiments but don't have
 
 ### Learn what the basics steps are
 
-Review articles offer all the keys to understand what is at stake and what are the challenges of morphological profing while adopting different perspectives. In particular, [Bougen-Zhukov et al.](https://doi.org/10.1002/cyto.a.22909) describe extensively the terminology used in the field while [Caicedo et al.](https://doi.org/10.1038/nmeth.4397) cover its technical challenges and provide guidelines for all analytical steps, assembled at the creation of the CytoData society. Depending on your background and interests, you might also look for research articles covering specific aspects of the topic, for instance [Rohban et al.](http://doi.org/10.1038/s41467-019-10154-8) nicely defines what morphological features are and can be from a statistical point of view.
+Review articles offer all the keys to understand what is at stake and what are the challenges of morphological profing while adopting different perspectives. In particular, [Bougen-Zhukov et al.](https://doi.org/10.1002/cyto.a.22909) describe extensively the terminology used in the field while [Caicedo et al.](https://doi.org/10.1038/nmeth.4397) cover its technical challenges and provide guidelines for all analytical steps, assembled at the creation of the CytoData society. Depending on your background and interests, you might also look for research articles covering specific aspects of the topic, for instance [Rohban et al.](http://doi.org/10.1038/s41467-019-10154-8) nicely define what morphological features are and can be from a statistical point of view.
 
 ### Learn what morphological profiling can be used for
 
@@ -31,7 +31,7 @@ The fields of high-content screening and morphological profiling already led to 
 
 Based on what you learnt so far, you can start to decide on the tools and approaches that are relevant to your work and prioritize the ones you should get familiar with. This will be refined as you start conducting your own analysis and as you meet new challenges, inherent to the biological questions your are adressing and the technical characteristics of your imaging setup.
 
-### Reproduce an analysis or apply it to your own data
+### Try out an analysis pipeline yourself
 
 The best way to learn is often through practice. If you identified a paper involving morphological profiling that you like, you could try reproducing the analysis yourself or adapting it to your own data. Overall, observing existing complete profiling pipelines (e.g. with [CellProfiler](https://cellprofiler.org/)) will expose you to to all the steps involved in such pipelines and make you think why each of them is needed and understand the sequential nature of processing and analysing imaging data. You might then decide if such a tool is suitable for you or if you would rather look at alternatives for one or several of these steps (e.g. dedicated deep-learning based segmentation methods are available, including pretrained models such as [CellPose](https://github.com/MouseLand/cellpose) and [DeepCell](https://github.com/vanvalenlab/intro-to-deepcell)).
 
