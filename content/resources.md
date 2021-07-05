@@ -12,12 +12,11 @@ We are maintaining a list of interesting papers, software and data resources use
 ## Getting started with morphological profile analyses
 
 Are you interested in analyzing image-based screening experiments but don't have any experience in morphological profiling and wonder where to start? Here are some suggestions:
-
-* Learn what the basics steps of morphological profiling are
-* Learn what morphological profiling can be used for
-* Identify what are your needs, interests and what tools are available
-* Get your hands dirty and try running an analysis pipeline
-* Get help when needed and stay up to date
+  - Learn what the basics steps of morphological profiling are
+  - Learn what morphological profiling can be used for
+  - Identify what are your needs, interests and what tools are available
+  - Get your hands dirty and try running an analysis pipeline
+  - Get help when needed and stay up to date
 
 ### Learn what the basics steps are
 
