@@ -9,7 +9,7 @@ weight: 5
 ##  Software, data and literature in the field
 We are maintaining a list of interesting papers, software and data resources used for morphological profiling and biological data science in [the Awesome-Cytodata repository](https://github.com/cytodata/awesome-cytodata). Contributions via pull requests are more than welcome!
 
-## Getting started with morphological profiling
+## Getting started with morphological profile analyses
 
 Are you interested in analyzing image-based screening experiments but don't have any experience in morphological profiling and wonder where to start? Here are some suggestions:
 
@@ -21,7 +21,7 @@ Are you interested in analyzing image-based screening experiments but don't have
 
 ### Learn what the basics steps are
 
-Review articles offer all the keys to understand what is at stake and what are the challenges of morphological profing while adopting different perspectives. In particular, [Bougen-Zhukov et al.](https://doi.org/10.1002/cyto.a.22909) describe extensively the terminology used in the field while [Caicedo et al.](https://doi.org/10.1038/nmeth.4397) cover its technical challenges and provide guidelines for all analytical steps, assembled at the creation of the CytoData society. [An image-based profiling handbook](https://cytomining.github.io/profiling-handbook/) describes a full profiling pipeline and environment that you might especially want to check out if you are interested in AWS cloud computing, CellProfiler and cytominer. Depending on your background and interests, you might also look for research articles covering specific aspects of the topic, for instance [Rohban et al.](http://doi.org/10.1038/s41467-019-10154-8) nicely define what morphological features are and can be from a statistical point of view. 
+Review articles offer all the keys to understand what is at stake and what are the challenges of morphological profing while adopting different perspectives. In particular, [Bougen-Zhukov et al.](https://doi.org/10.1002/cyto.a.22909) describe extensively the terminology used in the field while [Caicedo et al.](https://doi.org/10.1038/nmeth.4397) cover its technical challenges and provide guidelines for all analytical steps, assembled at the creation of the CytoData society. [An image-based profiling handbook](https://cytomining.github.io/profiling-handbook/) describes a full profiling pipeline with AWS cloud computing, including morphological measurements with [CellProfiler](https://cellprofiler.org/) and feature processing with cytominer (with implementations in [R](https://github.com/cytomining/cytominer) and [Python](https://github.com/cytomining/pycytominer)). Depending on your background and interests, you might also look for research articles covering specific aspects of the topic, for instance [Rohban et al.](http://doi.org/10.1038/s41467-019-10154-8) nicely define what morphological features are and can be from a statistical point of view. If you are interested in machine-learning approaches, reviews by [Scheeder et al.](https://doi.org/10.1016/J.COISB.2018.05.004) and [Chandrasekaran et al.](https://doi.org/10.1038/s41573-020-00117-w) specifically adress this topic. 
 
 ### Learn what morphological profiling can be used for
 
@@ -29,7 +29,7 @@ The fields of high-content screening and morphological profiling already led to 
 
 ### Identify what are your needs and interests
 
-Based on what you learnt so far, you can start to decide on the tools and approaches that are relevant to your work and prioritize the ones you should get familiar with. This will be refined as you start conducting your own analysis and as you meet new challenges, inherent to the biological questions your are adressing and the technical characteristics of your imaging setup.
+Based on what you learnt so far, you can start to decide on the tools and approaches that are relevant to your work and prioritize the ones you should get familiar with. This will be refined as you start conducting your own analysis and as you meet new challenges, inherent to the biological questions your are adressing and the technical characteristics of your imaging setup. 
 
 ### Try out an analysis pipeline yourself
 
@@ -38,7 +38,7 @@ The best way to learn is often through practice. If you identified a paper invol
 
 ### Get help when needed and stay up to date
 
-Even if noone in your local research community can guide you, you can easily connect with the imaging and profiling community at large. The CytoData society is partnering with the [image.sc forum](https://forum.image.sc/), where experts regularly answer questions about scientific imaging and image analysis and the dedicated open source software. The yearly CytoData conference and hackathon are also a great opportunity to engage with the community and learn about the latest developments in the field. Finally, the society regularly organises tutorials and discussions available on [our YouTube channel](https://www.youtube.com/channel/UCdzwWEyM0OVOpuX_0Ci_DuQ). 
+Even if noone in your local research community can guide you, you can easily connect with the imaging and profiling community at large. The CytoData society is partnering with the [image.sc forum](https://forum.image.sc/), where experts regularly answer questions about scientific imaging and image analysis and the dedicated open source software. The yearly CytoData conferences and hackathons are also great opportunities to engage with the community and learn about the latest developments in the field. Finally, the society regularly organises tutorials and discussions available on [our YouTube channel](https://www.youtube.com/channel/UCdzwWEyM0OVOpuX_0Ci_DuQ). 
 
 ### Disclaimer 
 
