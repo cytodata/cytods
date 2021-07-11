@@ -2,7 +2,6 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "CytoData Society"
-theme = "hugo-simpledoc-theme"
 
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
@@ -14,6 +13,19 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
   extensions = ["hardLineBreak"]
 
 # Top menu
+[menu]
+  [[menu.main]]
+    identifier = "symposiums"
+    name = "Symposiums"
+    url = "/symposiums"
+    weight = 10
+
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about"
+    weight = 20
+  
 [[menu.top]]
     name = "CytoData Symposium 2020 will be hosted virtually by Recursion, October 21-22, 2020. Abstract deadline September 30, 2020."
     weight = 10

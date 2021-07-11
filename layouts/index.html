@@ -1,16 +1,4 @@
-<!DOCTYPE html>
-<html id="html" lang="{{ with .Site.LanguageCode }}{{ . }}{{ else }}en-US{{ end }}">
-<head>
-    <meta http-equiv="content-type" content="text/html;charset=utf-8">
-    <meta name="viewport" content="width=device-width"/>
-    <title>{{ .Site.Title }}</title>
-    <meta name="description" content="{{ with .Site.Params.description }}{{ . }}{{ end }}">
-    <meta name="author" content="{{ with .Site.Params.author }}{{ . }}{{ end }}">
-    {{ .Hugo.Generator }}
-    {{ partial "style.html" . }}
-</head>
-
-<body>
+{{ partial "header.html" . }}
     <section id="Menu">
         <header>
             <h1>{{ with .Site.Params.headerTitle }}{{ . | markdownify }}{{ else }}{{ .Site.Title }}{{ end }}</h1>
@@ -40,5 +28,4 @@
 
     {{ end }}
 
-</body>
-</html>
+{{ partial "footer.html" . }}
