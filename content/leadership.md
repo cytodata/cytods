@@ -2,7 +2,7 @@
 title: "Leadership"
 date: 2018-06-15T04:48:14-04:00
 anchor: "leadership"
-weight: 3
+weight: 4
 ---
 
 The society has eleven leadership positions. The positions are open to anyone. Three out of the eleven positions must be held by early career researchers. 
