@@ -2,7 +2,7 @@
 title: "Strategy"
 date: 2018-06-15T04:40:11-04:00
 anchor: "strategy"
-weight: 4
+weight: 5
 ---
 
 ## Annual Meeting/Symposium
