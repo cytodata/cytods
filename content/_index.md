@@ -1,7 +1,5 @@
 ---
 title: "CytoData Society"
-date: 2018-06-15T04:38:44-04:00
-weight: 1
 ---
 
 ![CytoData banner](/./main_files/cytodata-banner.png)

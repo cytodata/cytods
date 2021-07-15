@@ -1,10 +1,6 @@
 ---
 title: "Resources"
-date: 2021-05-01T04:40:11-04:00
-anchor: "resources"
-weight: 5
 ---
-
 
 ##  Software, data and literature in the field
 We are maintaining a list of interesting papers, software and data resources used for morphological profiling and biological data science in [the Awesome-Cytodata repository](https://github.com/cytodata/awesome-cytodata). Contributions via pull requests are more than welcome!

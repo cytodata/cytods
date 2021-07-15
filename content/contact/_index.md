@@ -1,8 +1,5 @@
 ---
 title: "Contact"
-date: 2018-06-15T04:38:44-04:00
-anchor: "goals"
-weight: 1
 ---
 
 Our board member are spread over multiple continuations.
