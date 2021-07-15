@@ -1,5 +1,5 @@
 # Site settings
-baseURL = "http://example.org/"
+baseURL = "http://cytodata.org/"
 languageCode = "en-us"
 title = "CytoData Society"
 
@@ -21,29 +21,41 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     weight = 10
 
   [[menu.main]]
+    identifier = "resources"
+    name = "Resources"
+    url = "/resources"
+    weight = 20
+
+  [[menu.main]]
+    identifier = "leadership"
+    name = "Leadership"
+    url = "/leadership"
+    weight = 30
+
+  [[menu.main]]
     identifier = "about"
     name = "About"
     url = "/about"
-    weight = 20
+    weight = 40
+
+  [[menu.main]]
+    identifier = "contact"
+    name = "Contact"
+    url = "/contact"
+    weight = 50
   
 [[menu.top]]
-    name = "CytoData Symposium 2020 will be hosted virtually by Recursion, October 21-22, 2020. Abstract deadline September 30, 2020."
+    name = "CytoData Symposium 2021 will be hosted virtually by bit.bio, October 13-15, 2021. More information will be available soon."
     weight = 10
-    url = "https://www.rxrx.ai/cytodata2020"
+    url = "https://www.cytodata.org/symposiums/2021/"
 
 # Site parameters
 [params]
 
     # Meta
     description = "CytoData Society"
-    author = "Shantanu Singh"
+    author = "Shantanu Singh & Tom Nijhof"
     keywords = "biology, computer vision, machine learning, drug discovery, high-content imaging, microscopy, bioinformatics, computational biology"
-    
-    # Header
-    # If not set, site title and meta description will be shown.
-    # You may use markdown here
-    headerTitle = "CytoData Society"
-    headerDescription = "![CytoData banner](/./main_files/cytodata-banner.png) The CytoData society (CytoDS) builds and maintains an active community around image-based profiling of biological phenotypes induced by genetic, chemical or other perturbations of biological systems."
     
     # Back-to-top button name
     bttButton = ""

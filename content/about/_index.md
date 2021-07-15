@@ -1,9 +1,14 @@
 ---
-title: "Strategy"
-date: 2018-06-15T04:40:11-04:00
-anchor: "strategy"
-weight: 4
+title: "About"
+date: 2018-06-15T04:38:44-04:00
+anchor: "goals"
+weight: 1
 ---
+
+Although microscopy imaging is among the oldest techniques in the life sciences, its use as a quantifiable source of information has been limited to measure only certain specific phenotypes based on the biological question at hand. In recent years, several research groups have demonstrated that the data-rich information present in images can be used to create signatures of the state of a cell or other biological systems. Its applications can thus have a transformational impact on drug discovery as well as basic science. This field of image-based profiling is still in its infancy, and its adoption has been slow, primarily due to the data analysis challenges posed, the large imaging experiments required, and the lack of ground-truth data sets where relationships among images are known. Our goal is therefore to bring image-based profiling into the mainstream by organizing the community working on this technology.
+
+## Values
+We value interdisciplinary thinking and consider it critical to the success of this field. We strive to be a truly global society, preserving ethnic and geographical diversity and balance across demographic groups. By mandating that at least a fourth of the board comprise of early career researchers, we will encourage them to play a key role in decision-making. Individuals are considered early career if they either don’t hold a PhD, or if they do, then are within eight years of receiving the degree.
 
 ## Annual Meeting/Symposium
 CytoDS will grant the use of its name and its full support to the organization of an annual scientific meeting of the image-based profiling research community. The purpose of these meetings is discussing recent advances in the field and fostering communication within the research community. Connections with other domains are forge by inviting experts from those fields to give a presentation at the symposium. The agenda is created by the organizers, while CytoDS will assist in fundraising, outreach and general organizational questions. The location of the meeting should be chosen based on an online poll sent to all members of the society, and must adhere to the equal rights policies of the society.
