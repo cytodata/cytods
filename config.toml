@@ -12,7 +12,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
   smartlists = true
   extensions = ["hardLineBreak"]
 
-# Top menu
+# Menu
 [menu]
   [[menu.main]]
     identifier = "symposiums"
@@ -43,11 +43,6 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     name = "Contact"
     url = "/contact"
     weight = 50
-  
-[[menu.top]]
-    name = "CytoData Symposium 2021 will be hosted virtually by bit.bio, October 13-15, 2021. More information will be available soon."
-    weight = 10
-    url = "https://www.cytodata.org/symposiums/2021/"
 
 # Site parameters
 [params]
