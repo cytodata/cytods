@@ -18,7 +18,7 @@ To update text go the `/content` and locate the text you want to alter.
 Every page has it own folder.
 
 `_index.md`: Main text of this page.
-The one `/content/_index.md` is for the main page, `/content/about/_index.md` is for the about page ect.
+The one `/content/_index.md` is for the main page, `/content/society/_index.md` is for the society page ect.
 
 ```
 ---
