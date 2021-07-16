@@ -10,3 +10,7 @@ We can be found at:
 - [twitter @CytoData](https://twitter.com/CytoData)
 - [LinkedIn @CytoData](https://www.linkedin.com/company/cytodata)
 - [Github](https://github.com/cytodata)
+
+If you want to keep up to data you can subscribe to our mailing list:
+
+{{< mail_list_subscription >}}
