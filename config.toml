@@ -15,9 +15,9 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 # Menu
 [menu]
   [[menu.main]]
-    identifier = "symposiums"
-    name = "Symposiums"
-    url = "/symposiums"
+    identifier = "symposia"
+    name = "Symposia"
+    url = "/symposia"
     weight = 10
 
   [[menu.main]]
