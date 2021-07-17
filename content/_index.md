@@ -11,4 +11,4 @@ To stay connected and get the latest updates and news for the CytoData Society a
 
 The CytoData society (CytoDS) builds and maintains an active community around image-based profiling of biological phenotypes induced by genetic, chemical or other perturbations of biological systems.
 
-*CytoData Society is an unregistered society meaning that the society does not have an official status in any country. Instead we are an active community of researchers and developers. We consider everyone in our mailing list as a member of the society.*
+*CytoData Society is an unregistered society, meaning that the society does not have an official status in any country. Instead, we are an active community of researchers and developers. We consider everyone in our mailing list as a member of the society.*
