@@ -7,5 +7,8 @@ weight: 14
 image: boardAvatars/TomNijhof.jpg
 ---
 
+Currently I am working at [CytoSMART](https://cytosmart.com) as computer vision engineer.
+My background is in [Biomedical engineering](https://www.tue.nl/en/our-university/departments/biomedical-engineering/) and together with CytoData I am sharing this passion.
+
 - **Responsibilities**
   - Design and organize strategy for education and outreach
