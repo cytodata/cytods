@@ -1,5 +1,5 @@
 ---
-title: "Leadership"
+title: "Board"
 ---
 
 The society has eleven leadership positions.
