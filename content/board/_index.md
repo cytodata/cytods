@@ -2,7 +2,7 @@
 title: "Board"
 ---
 
-The society has eleven leadership positions.
+The society has eleven board positions.
 The positions are open to anyone.
 Three out of the eleven positions must be held by early career researchers.
 
