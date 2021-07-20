@@ -8,6 +8,13 @@
     img, object, embed {max-width: 100%; height: auto;}
     object, embed {height: 100%;}
     img { margin: 1.25% 0; -ms-interpolation-mode: bicubic; }
+    img.thumb-post {
+        object-fit: cover; /* Do not scale the image */
+        object-position: center; /* Center the image within the element */
+        width: 100px;
+        height: 100px;
+        margin-bottom: 1rem;
+        }
     html {
         background-color: #F0F1F3;
         padding: 2%;
