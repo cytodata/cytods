@@ -9,5 +9,5 @@ image: boardAvatars/LassiPaavolainen.jpg
 
 
 - **Responsibilities**
-  - Lead the committee, keeping the society’s vision and strategy in mind.
+  - Lead the committee, keeping the society’s vision and strategy in mind
   - Automatically becomes Past president the following year
