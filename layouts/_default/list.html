@@ -12,14 +12,15 @@
         <div class="user d-flex flex-row align-items-center">
           <img
             src="/./main_files/{{.Params.image}}"
-            width="100"
-            class="user-img rounded-circle mr-2"
+            class="user-img rounded-circle mr-2 thumb-post"
           />
-          <span class="mx-auto">
-            <a href="{{ .RelPermalink }}" class="mx-3 text-reset text-center stretched-link"
-              >{{ .Title }}</a
+            <a
+              href="{{ .RelPermalink }}"
+              class="mx-3 text-decoration-none text-reset text-right stretched-link"
+              ><b>{{ .Title }}</b><br/>
+              {{ .Params.tagline}}</a
             >
-          </span>
+          
         </div>
         <small>{{ .Date.Format "2 January 2006" }}</small>
       </div>

@@ -27,9 +27,9 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     weight = 20
 
   [[menu.main]]
-    identifier = "leadership"
-    name = "Leadership"
-    url = "/leadership"
+    identifier = "board"
+    name = "Board"
+    url = "/board"
     weight = 30
 
   [[menu.main]]
